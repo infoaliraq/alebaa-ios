@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.alebaa.alebaaTV" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" versionCode="1">
-    <name>Alebaa TV</name>
+    <name>Alebaa TV - قناة الإباء</name>
     <description>Alebaa TV News App</description>
     <author email="info@alebaa.tv" href="https://www.alebaa.tv/">Alebaa TV</author>
     <content src="index.html" />
